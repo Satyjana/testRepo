@@ -4,3 +4,4 @@ another change
 this is supposed to create a conflict.
 check for cnflict
 master branch1
+new
